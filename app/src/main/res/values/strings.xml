@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Application</string>
+    <string name="item_default_nomreg">Nom Region</string>
+    <string name="item_default_codep">Code Postale</string>
+    <string name="item_default_operator">Operator</string>
+    <string name="item_default_tech">Technology</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
